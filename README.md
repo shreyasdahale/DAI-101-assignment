@@ -37,8 +37,8 @@ The project includes various visualizations, such as:
 ## Project Structure
 ```
 |-- sleep_cycle_productivity.csv                 # CSV file of the data
-|-- README.md             # Project overview (this file)
-|-- EDA.ipynb             # Main exploratory data analysis
+|-- README.md                                    # Project overview (this file)
+|-- EDA.ipynb                                    # Main exploratory data analysis
 ```
 
 ## Conclusion
